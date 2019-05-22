@@ -1,0 +1,250 @@
+body{
+	
+		
+}
+
+.founders{
+			left:200px;
+			top:260px;
+			position:absolute;
+			font-family:Lucida Console;
+			font-size:30px;
+			color:#34495E;
+		}
+
+.founders_box{
+				left:50px;
+				top:200px;
+				position:absolute;
+				width:1166px;
+				height:320px;
+				background-color:#E9F7EF ;
+				-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+				
+				}	
+
+.message{
+			left:100px;
+			top:320px;
+			position:absolute;
+			font-size:18px;
+			text-align:center-left;
+			word-wrap:break-word;
+			width:650px;
+			color:#85929E;
+			font-family:Georgia;
+			
+		}
+		
+.founders_image{
+					left:900px;
+					top:250px;
+					position:absolute;
+				}
+				
+.who_we_are { left:520px;
+			  top:750px;
+			  position:absolute;
+			font-family:Lucida Console;
+			font-size:30px;
+			color:#2E4053;
+		
+}
+
+.message2 { left:70px;
+			top:800px;
+			position:absolute;
+			font-size:18px;
+			text-align:center;
+			word-wrap:break-word;
+			width:1200px;
+			color:#839192;
+			font-family:Georgia;
+			
+		}
+		
+.our_objectives{
+			   left:520px;
+			   top:1250px;
+			   position:absolute;
+			   font-family:Lucida Console;
+			   font-size:30px;
+			   color:#2E4053;
+			}   
+
+
+
+.message3 { left:70px;
+			top:1300px;
+			position:absolute;
+			font-size:18px;
+			text-align:center-left;
+			word-wrap:break-word;
+			width:1200px;
+			color:#839192;
+			font-family:Georgia;
+			
+		}
+
+
+
+.box2   {
+				left:0px;
+				top:720px;
+				position:absolute;
+				width:1366px;
+				height:360px;
+				background-color:white-space;
+				
+				
+				}	
+		
+.box3   {
+				left:50px;
+				top:1225px;
+				position:absolute;
+				width:1266px;
+				height:360px;
+				background-color:#E9F7EF ;
+				-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+				
+				}	
+				
+				
+				
+				
+.parallax1{ 
+  /* The image used */
+  background-image: url("background.png");
+
+  /* Set a specific height */
+  height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+
+.vision{
+			   left:520px;
+			   top:1750px;
+			   position:absolute;
+			   font-family:Lucida Console;
+			   font-size:30px;
+			   color:#2E4053;
+			}   
+			
+.message4{left:70px;
+			top:1800px;
+			position:absolute;
+			font-size:18px;
+			text-align:center-left;
+			word-wrap:break-word;
+			width:1200px;
+			color:#839192;
+			font-family:Georgia;
+			
+		}
+			
+			
+
+.parallax2{ 
+  /* The image used */
+  background-image: url("background2.png");
+
+  /* Set a specific height */
+  height:550px; 
+  top:400px;
+  left:0px;
+  position:relative;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.mission{  	   left:520px;
+			   top:2000px;
+			   position:absolute;
+			   font-family:Lucida Console;
+			   font-size:30px;
+			   color:#2E4053;
+		}   
+		
+.message5{	  left:70px;
+			top:2060px;
+			position:absolute;
+			font-size:18px;
+			text-align:center-left;
+			word-wrap:break-word;
+			width:1200px;
+			color:#839192;
+			font-family:Georgia;
+			
+			
+			}
+			
+.profile{	   left:400px;
+			   top:2300px;
+			   position:absolute;
+			   font-family:Lucida Console;
+			   font-size:35px;
+			   color:#2E4053;
+		}
+		
+		
+
+table{	    left:350px;
+			top:2370px;
+			position:absolute;
+			font-size:16px;
+			text-align:center-left;
+			word-wrap:break-word;
+			color:#839192;
+			font-family:Georgia;
+        }
+		
+		
+.box4    {
+				left:300px;
+				top:2250px;
+				position:absolute;
+				width:650px;
+				height:1200px;
+				background-color:#E9F7EF ;
+				-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+				
+				}	
+				
+.parallax3{ 
+  /* The image used */
+  background-image: url("background3.png");
+
+  /* Set a specific height */
+  height:1350px; 
+  top:900px;
+  left:0px;
+  position:relative;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+		
+
+
+
+
+
+			
