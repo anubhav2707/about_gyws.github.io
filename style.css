@@ -154,7 +154,7 @@ body{
 
 .parallax2{ 
   /* The image used */
-  background-image: url("background2.PNG");
+  background-image: url("background2.png");
 
   /* Set a specific height */
   height:550px; 
